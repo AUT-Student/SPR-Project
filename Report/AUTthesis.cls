@@ -76,7 +76,7 @@
 \@department
 \else
 \if@bscthesis
-پروژه کارشناسی
+پروژه نهایی درس شناسایی آماری الگو
 \vspace{-.8cm}
 
 \@department
@@ -105,7 +105,7 @@
 \else\fi
 \else
 \ifx\fsecondsupervisor\undefined%
-استاد راهنما
+استاد درس
 \vspace*{-0.8cm}
 {\fontsize{18pt}{19pt}\selectfont\bfseries\par
 \ffirstsupervisor}
