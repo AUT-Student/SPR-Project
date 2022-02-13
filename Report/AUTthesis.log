@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.9.5)  11 FEB 2022 11:17
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.9.5)  13 FEB 2022 11:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -886,7 +886,8 @@ Package amsthm Warning: Unknown theoremstyle `theorem' on input line 117.
 LaTeX Warning: Unused global option(s):
     [oneside,12pt].
 
-(./AUTthesis.aux (./chapter1.aux))
+(./AUTthesis.aux (./chapter1.aux) (./chapter2.aux) (./chapter3.aux)
+(./chapter4.aux) (./chapter5.aux))
 \openout1 = `AUTthesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
@@ -1024,12 +1025,12 @@ LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/b/n' will be
 (Font)              scaled to size 24.88794pt on input line 7.
  (./AUTthesis.toc
 LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/b/n' will be
-(Font)              scaled to size 14.39996pt on input line 9.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 9.
+(Font)              scaled to size 14.39996pt on input line 8.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 8.
  (c:/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 9.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 8.
 
 (c:/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -1097,20 +1098,149 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 
+])
+\openout2 = `chapter2.aux'.
+
+ (./chapter2.tex
+فصل 2.
+LaTeX Font Info:    Font shape `TU/BNazanin.ttf(1)/b/n' will be
+(Font)              scaled to size 32.84999pt on input line 1.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[2
+
+
+
+
+]
+LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/m/n' will be
+(Font)              scaled to size 9.59998pt on input line 8.
+LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/m/n' will be
+(Font)              scaled to size 11.99997pt on input line 8.
+
+Overfull \hbox (9.05293pt too wide) detected at line 15
+[]\OML/cmm/m/it/12 IG\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 t\OT1/cmr/m/n/12 ) = \OM
+S/cmsy/m/n/12 ^^@ [] \OML/cmm/m/it/12 P\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 C[]\OT
+1/cmr/m/n/12 ) [] [] + \OML/cmm/m/it/12 P\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 t\OT
+1/cmr/m/n/12 ) [] \OML/cmm/m/it/12 P\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 C[]\OMS/c
+msy/m/n/12 j\OML/cmm/m/it/12 t\OT1/cmr/m/n/12 ) [] [] + \OML/cmm/m/it/12 P\OT1/
+cmr/m/n/12 ([]) [] \OML/cmm/m/it/12 P\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 C[]\OMS/
+cmsy/m/n/12 j[]\OT1/cmr/m/n/12 ) [] []
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[3]
+
+LaTeX Warning: Reference `footdir@11' on page 4 undefined on input line 99.
+
+
+LaTeX Warning: Reference `footdir@12' on page 4 undefined on input line 114.
+
+
+LaTeX Warning: Reference `footdir@13' on page 4 undefined on input line 114.
+
+)
+
+LaTeX Warning: Reference `footdir@14' on page 4 undefined on input line 58.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[4]
+\openout2 = `chapter3.aux'.
+
+ (./chapter3.tex
+فصل 3.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[5
+
+
+
+
+])
+\openout2 = `chapter4.aux'.
+
+ (./chapter4.tex
+فصل 4.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[6
+
+
+
+
+])
+\openout2 = `chapter5.aux'.
+
+ (./chapter5.tex
+فصل 5.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[7
+
+
+
+
 ]) (./AUTthesis.bbl
 LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/m/n' will be
 (Font)              scaled to size 29.85593pt on input line 4.
 
 
-LaTeX Warning: Empty `thebibliography' environment on input line 6.
+LaTeX Font Warning: Font shape `TU/TimesNewRoman.ttf(0)/m/it' undefined
+(Font)              using `TU/TimesNewRoman.ttf(0)/m/n' instead on input line 1
+2.
 
-) [2
+) [8
 
 
 
-] (./AUTthesis.aux (./chapter1.aux))
+] (./AUTthesis.aux (./chapter1.aux) (./chapter2.aux) (./chapter3.aux)
+(./chapter4.aux) (./chapter5.aux))
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 
 Package rerunfilecheck Warning: File `AUTthesis.out' has changed.
@@ -1118,16 +1248,16 @@ Package rerunfilecheck Warning: File `AUTthesis.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `AUTthesis.out':
-(rerunfilecheck)             Before: 31EF9B02F006229AB6D7A862C08F00B0;1102
-(rerunfilecheck)             After:  7C7F6C13520DD9952F3CFE3B5F2AC357;496.
+(rerunfilecheck)             Before: 8A0BE51283E22ADEAD604294A61CEB4E;1876
+(rerunfilecheck)             After:  0C23B769FA998B9647646B96352F6D7F;2178.
  ) 
 Here is how much of TeX's memory you used:
- 17090 strings out of 476533
- 328318 string characters out of 5821545
- 764986 words of memory out of 5000000
- 37120 multiletter control sequences out of 15000+600000
- 409336 words of font info for 79 fonts, out of 8000000 for 9000
+ 17184 strings out of 476533
+ 330009 string characters out of 5821545
+ 773986 words of memory out of 5000000
+ 37178 multiletter control sequences out of 15000+600000
+ 411075 words of font info for 92 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 93i,11n,98p,2634b,394s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 93i,12n,98p,2634b,394s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on AUTthesis.pdf (8 pages).
+Output written on AUTthesis.pdf (14 pages).
