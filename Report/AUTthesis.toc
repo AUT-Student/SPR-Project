@@ -11,16 +11,17 @@
 \contentsline {subsection}{\numberline {2-1-2}شاخص جینی}{3}{subsection.2.1.2}%
 \contentsline {subsection}{\numberline {2-1-3}نسبت نابرابری}{4}{subsection.2.1.3}%
 \contentsline {subsection}{\numberline {2-1-4}معیار زائدی کمینه شباهت بیشینه}{4}{subsection.2.1.4}%
-\contentsline {chapter}{\numberline {3}روش‌های ارائه‌شده}{5}{chapter.3}%
-\contentsline {section}{\numberline {3-1}روش \lr {IGFSS}}{6}{section.3.1}%
-\contentsline {subsection}{\numberline {3-1-1}مراحل الگوریتم}{6}{subsection.3.1.1}%
-\contentsline {subsection}{\numberline {3-1-2}مثال و تحلیل}{6}{subsection.3.1.2}%
-\contentsline {section}{\numberline {3-2}روش \lr {MRDC}}{7}{section.3.2}%
-\contentsline {subsection}{\numberline {3-2-1}مراحل الگوریتم}{8}{subsection.3.2.1}%
-\contentsline {subsection}{\numberline {3-2-2}مثال و تحلیل}{8}{subsection.3.2.2}%
-\contentsline {section}{\numberline {3-3}روش برپایه الگوریتم ژنتیک}{8}{section.3.3}%
-\contentsline {chapter}{\numberline {4}ارزیابی و مقایسه}{10}{chapter.4}%
-\contentsline {section}{\numberline {4-1}مقایسه تئوری}{11}{section.4.1}%
-\contentsline {chapter}{\numberline {5}جمع‌بندی و نتیجه‌گیری}{12}{chapter.5}%
-\contentsline {chapter}{منابع و مراجع}{13}{appendix*.4}%
+\contentsline {subsection}{\numberline {2-1-5}معیار تمایزگر نسبی}{4}{subsection.2.1.5}%
+\contentsline {chapter}{\numberline {3}روش‌های ارائه‌شده}{6}{chapter.3}%
+\contentsline {section}{\numberline {3-1}روش \lr {IGFSS}}{7}{section.3.1}%
+\contentsline {subsection}{\numberline {3-1-1}مراحل الگوریتم}{7}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3-1-2}مثال و تحلیل}{7}{subsection.3.1.2}%
+\contentsline {section}{\numberline {3-2}روش \lr {MRDC}}{8}{section.3.2}%
+\contentsline {subsection}{\numberline {3-2-1}مراحل الگوریتم}{9}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3-2-2}مثال و تحلیل}{9}{subsection.3.2.2}%
+\contentsline {section}{\numberline {3-3}روش برپایه الگوریتم ژنتیک}{9}{section.3.3}%
+\contentsline {chapter}{\numberline {4}ارزیابی و مقایسه}{11}{chapter.4}%
+\contentsline {section}{\numberline {4-1}مقایسه تئوری}{12}{section.4.1}%
+\contentsline {chapter}{\numberline {5}جمع‌بندی و نتیجه‌گیری}{13}{chapter.5}%
+\contentsline {chapter}{منابع و مراجع}{14}{appendix*.4}%
 \contentsfinish 
