@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.9.5)  14 FEB 2022 17:49
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.9.5)  14 FEB 2022 21:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1045,12 +1045,12 @@ LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/b/n' will be
 (Font)              scaled to size 24.88794pt on input line 7.
  (./AUTthesis.toc
 LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/b/n' will be
-(Font)              scaled to size 14.39996pt on input line 8.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 8.
+(Font)              scaled to size 14.39996pt on input line 7.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 7.
  (c:/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 8.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 7.
 
 (c:/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -1090,6 +1090,37 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [4
 
+]) (./list-of-symbols.tex
+LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/m/n' will be
+(Font)              scaled to size 9.59998pt on input line 13.
+LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/m/n' will be
+(Font)              scaled to size 7.19998pt on input line 13.
+LaTeX Font Info:    Trying to load font information for U+euf on input line 28.
+
+
+(c:/texlive/2021/texmf-dist/tex/latex/amsfonts/ueuf.fd
+File: ueuf.fd 2013/01/14 v3.01 Euler Fraktur
+)
+Underfull \hbox (badness 10000) in paragraph at lines 13--68
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--68
+[][]
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[5
+
+
 ])
 \openout2 = `chapter1.aux'.
 
@@ -1116,9 +1147,34 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [1
 
 
+]
+LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/m/n' will be
+(Font)              scaled to size 11.99997pt on input line 2.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--4
+[][]
+ []
 
 
-])
+Underfull \hbox (badness 10000) in paragraph at lines 5--7
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--10
+[][]
+ []
+
+)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[2]
 \openout2 = `chapter2.aux'.
 
  (./chapter2.tex
@@ -1133,18 +1189,36 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[2
+[3
 
 
 
 
 ]
-LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/m/n' will be
-(Font)              scaled to size 9.59998pt on input line 8.
-LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/m/n' will be
-(Font)              scaled to size 11.99997pt on input line 8.
+Underfull \hbox (badness 10000) in paragraph at lines 6--8
+[][]
+ []
 
-Overfull \hbox (9.05293pt too wide) detected at line 15
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--11
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--14
+[][]
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[4]
+Overfull \hbox (9.05293pt too wide) detected at line 28
 []\OML/cmm/m/it/12 IG\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 t\OT1/cmr/m/n/12 ) = \OM
 S/cmsy/m/n/12 ^^@ [] \OML/cmm/m/it/12 P\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 C[]\OT
 1/cmr/m/n/12 ) [] [] + \OML/cmm/m/it/12 P\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 t\OT
@@ -1162,25 +1236,43 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[3]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[4])
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
 [5]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 174--176
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--179
+[][]
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[7])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[8]
 \openout2 = `chapter3.aux'.
 
  (./chapter3.tex
@@ -1193,7 +1285,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[6
+[9
 
 
 
@@ -1218,38 +1310,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[7]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[8]
-
-LaTeX Warning: Citation `ghareb2016hybrid' on page 9 undefined on input line 19
-2.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[9]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[10])
+[10]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1259,6 +1320,33 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [11]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[12]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[13])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[14]
 \openout2 = `chapter4.aux'.
 
  (./chapter4.tex
@@ -1271,7 +1359,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[12
+[15
 
 
 
@@ -1285,7 +1373,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[13]
+[16]
 \openout2 = `chapter5.aux'.
 
  (./chapter5.tex
@@ -1298,7 +1386,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[14
+[17
 
 
 
@@ -1312,7 +1400,7 @@ LaTeX Font Warning: Font shape `TU/TimesNewRoman.ttf(0)/m/it' undefined
 (Font)              using `TU/TimesNewRoman.ttf(0)/m/n' instead on input line 1
 2.
 
-) [15
+) [18
 
 
 
@@ -1321,22 +1409,16 @@ LaTeX Font Warning: Font shape `TU/TimesNewRoman.ttf(0)/m/it' undefined
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package rerunfilecheck Info: File `AUTthesis.out' has not changed.
-(rerunfilecheck)             Checksum: 228FE87616FE3D84B817930C197E1AFA;4555.
+(rerunfilecheck)             Checksum: 217D445F2EBCCB7ADBF9260566A43A67;4611.
  ) 
 Here is how much of TeX's memory you used:
- 17275 strings out of 476533
- 331389 string characters out of 5821545
+ 17337 strings out of 476533
+ 332423 string characters out of 5821545
  780747 words of memory out of 5000000
- 37264 multiletter control sequences out of 15000+600000
- 411083 words of font info for 93 fonts, out of 8000000 for 9000
+ 37316 multiletter control sequences out of 15000+600000
+ 412507 words of font info for 100 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  93i,12n,98p,2634b,567s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on AUTthesis.pdf (21 pages).
+Output written on AUTthesis.pdf (25 pages).

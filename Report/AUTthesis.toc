@@ -2,30 +2,30 @@
 \setcounter {tocdepth}{-10}
 \contentsline {chapter}{فهرست اشکال}{ج}{section*.2}%
 \contentsline {chapter}{فهرست جداول}{د}{section*.3}%
-\contentsline {chapter}{\numberline {1}مقدمه}{1}{chapter.1}%
 \par عنوان\hfill صفحه \par 
 \setcounter {tocdepth}{\SavedTocDepth }
-\contentsline {chapter}{\numberline {2}مفاهیم تئوری}{2}{chapter.2}%
-\contentsline {section}{\numberline {2-1}روش‌های انتخاب ویژگی}{3}{section.2.1}%
-\contentsline {subsection}{\numberline {2-1-1}بهره اطلاعاتی}{3}{subsection.2.1.1}%
-\contentsline {subsection}{\numberline {2-1-2}شاخص جینی}{3}{subsection.2.1.2}%
-\contentsline {subsection}{\numberline {2-1-3}نسبت نابرابری}{4}{subsection.2.1.3}%
-\contentsline {subsection}{\numberline {2-1-4}معیار زائدی کمینه شباهت بیشینه}{4}{subsection.2.1.4}%
-\contentsline {subsection}{\numberline {2-1-5}معیار تمایزگر نسبی}{4}{subsection.2.1.5}%
-\contentsline {section}{\numberline {2-2}دسته‌بندی روش‌های انتخاب ویژگی}{5}{section.2.2}%
-\contentsline {section}{\numberline {2-3}الگوریتم ژنتیک}{5}{section.2.3}%
-\contentsline {chapter}{\numberline {3}روش‌های ارائه‌شده}{6}{chapter.3}%
-\contentsline {section}{\numberline {3-1}روش \lr {IGFSS}}{7}{section.3.1}%
-\contentsline {subsection}{\numberline {3-1-1}مراحل الگوریتم}{7}{subsection.3.1.1}%
-\contentsline {subsection}{\numberline {3-1-2}مثال و تحلیل}{7}{subsection.3.1.2}%
-\contentsline {section}{\numberline {3-2}روش \lr {MRDC}}{8}{section.3.2}%
-\contentsline {subsection}{\numberline {3-2-1}مراحل الگوریتم}{9}{subsection.3.2.1}%
-\contentsline {subsection}{\numberline {3-2-2}مثال و تحلیل}{9}{subsection.3.2.2}%
-\contentsline {section}{\numberline {3-3}روش برپایه الگوریتم ژنتیک}{9}{section.3.3}%
-\contentsline {subsection}{\numberline {3-3-1}شناسنامه الگوریتم ژنتیک}{10}{subsection.3.3.1}%
-\contentsline {subsection}{\numberline {3-3-2}مراحل الگوریتم}{11}{subsection.3.3.2}%
-\contentsline {chapter}{\numberline {4}ارزیابی و مقایسه}{12}{chapter.4}%
-\contentsline {section}{\numberline {4-1}مقایسه تئوری}{13}{section.4.1}%
-\contentsline {chapter}{\numberline {5}جمع‌بندی و نتیجه‌گیری}{14}{chapter.5}%
-\contentsline {chapter}{منابع و مراجع}{15}{appendix*.4}%
+\contentsline {chapter}{\numberline {1}مقدمه}{1}{chapter.1}%
+\contentsline {chapter}{\numberline {2}مفاهیم تئوری}{3}{chapter.2}%
+\contentsline {section}{\numberline {2-1}دسته‌بندی روش‌های انتخاب ویژگی}{4}{section.2.1}%
+\contentsline {section}{\numberline {2-2}محاسبه روش‌های انتخاب ویژگی}{5}{section.2.2}%
+\contentsline {subsection}{\numberline {2-2-1}بهره اطلاعاتی}{5}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2-2-2}شاخص جینی}{5}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2-2-3}نسبت نابرابری}{6}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2-2-4}معیار زائدی کمینه شباهت بیشینه}{6}{subsection.2.2.4}%
+\contentsline {subsection}{\numberline {2-2-5}معیار تمایزگر نسبی}{7}{subsection.2.2.5}%
+\contentsline {section}{\numberline {2-3}الگوریتم ژنتیک}{7}{section.2.3}%
+\contentsline {chapter}{\numberline {3}روش‌های ارائه‌شده}{9}{chapter.3}%
+\contentsline {section}{\numberline {3-1}روش \lr {IGFSS}}{10}{section.3.1}%
+\contentsline {subsection}{\numberline {3-1-1}مراحل الگوریتم}{10}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3-1-2}مثال و تحلیل}{10}{subsection.3.1.2}%
+\contentsline {section}{\numberline {3-2}روش \lr {MRDC}}{11}{section.3.2}%
+\contentsline {subsection}{\numberline {3-2-1}مراحل الگوریتم}{12}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3-2-2}مثال و تحلیل}{12}{subsection.3.2.2}%
+\contentsline {section}{\numberline {3-3}روش برپایه الگوریتم ژنتیک}{12}{section.3.3}%
+\contentsline {subsection}{\numberline {3-3-1}شناسنامه الگوریتم ژنتیک}{13}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3-3-2}مراحل الگوریتم}{14}{subsection.3.3.2}%
+\contentsline {chapter}{\numberline {4}ارزیابی و مقایسه}{15}{chapter.4}%
+\contentsline {section}{\numberline {4-1}مقایسه تئوری}{16}{section.4.1}%
+\contentsline {chapter}{\numberline {5}جمع‌بندی و نتیجه‌گیری}{17}{chapter.5}%
+\contentsline {chapter}{منابع و مراجع}{18}{appendix*.4}%
 \contentsfinish 
