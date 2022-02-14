@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.9.5)  13 FEB 2022 19:32
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.9.5)  13 FEB 2022 23:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1195,7 +1195,12 @@ LaTeX Font Warning: Font shape `TU/TimesNewRoman.ttf(0)/b/n' undefined
 (Font)              using `TU/TimesNewRoman.ttf(0)/m/n' instead on input line 5
 .
 
-)
+
+Overfull \hbox (16.10622pt too wide) in paragraph at lines 49--50
+[][]\TU/BNazanin.ttf(0)/b/n/12 بر اساس مجموعه‌داده معرفی‌شده می‌توان معیار‌های 
+انتخاب ویژگی مرتبط را بدست آورد و برچسب‌گذاری[]
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1213,7 +1218,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[7]
+[7])
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1223,6 +1228,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [8]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[9]
 \openout2 = `chapter4.aux'.
 
  (./chapter4.tex
@@ -1235,7 +1249,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[9
+[10
 
 
 
@@ -1249,7 +1263,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[10]
+[11]
 \openout2 = `chapter5.aux'.
 
  (./chapter5.tex
@@ -1262,7 +1276,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[11
+[12
 
 
 
@@ -1276,7 +1290,7 @@ LaTeX Font Warning: Font shape `TU/TimesNewRoman.ttf(0)/m/it' undefined
 (Font)              using `TU/TimesNewRoman.ttf(0)/m/n' instead on input line 1
 2.
 
-) [12
+) [13
 
 
 
@@ -1286,15 +1300,15 @@ LaTeX Font Warning: Font shape `TU/TimesNewRoman.ttf(0)/m/it' undefined
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `AUTthesis.out' has not changed.
-(rerunfilecheck)             Checksum: B4E1E77345BA0B6A6D685C98FD80749A;3071.
+(rerunfilecheck)             Checksum: 96305EBA0A8D183A468339E26FC01058;3467.
  ) 
 Here is how much of TeX's memory you used:
- 17259 strings out of 476533
- 331162 string characters out of 5821545
- 783747 words of memory out of 5000000
- 37248 multiletter control sequences out of 15000+600000
+ 17267 strings out of 476533
+ 331278 string characters out of 5821545
+ 780747 words of memory out of 5000000
+ 37256 multiletter control sequences out of 15000+600000
  411083 words of font info for 93 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 93i,12n,98p,2634b,394s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 93i,12n,98p,2634b,567s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on AUTthesis.pdf (18 pages).
+Output written on AUTthesis.pdf (19 pages).
