@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.9.5)  14 FEB 2022 09:52
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.9.5)  14 FEB 2022 17:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1227,7 +1227,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[8])
+[8]
+
+LaTeX Warning: Citation `ghareb2016hybrid' on page 9 undefined on input line 19
+2.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1245,7 +1249,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[10]
+[10])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[11]
 \openout2 = `chapter4.aux'.
 
  (./chapter4.tex
@@ -1258,7 +1271,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[11
+[12
 
 
 
@@ -1272,7 +1285,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[12]
+[13]
 \openout2 = `chapter5.aux'.
 
  (./chapter5.tex
@@ -1285,7 +1298,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[13
+[14
 
 
 
@@ -1299,7 +1312,7 @@ LaTeX Font Warning: Font shape `TU/TimesNewRoman.ttf(0)/m/it' undefined
 (Font)              using `TU/TimesNewRoman.ttf(0)/m/n' instead on input line 1
 2.
 
-) [14
+) [15
 
 
 
@@ -1308,16 +1321,22 @@ LaTeX Font Warning: Font shape `TU/TimesNewRoman.ttf(0)/m/it' undefined
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package rerunfilecheck Info: File `AUTthesis.out' has not changed.
-(rerunfilecheck)             Checksum: E49AF99304758FEDF0FCD3DDE7C1A206;3673.
+(rerunfilecheck)             Checksum: 228FE87616FE3D84B817930C197E1AFA;4555.
  ) 
 Here is how much of TeX's memory you used:
- 17273 strings out of 476533
- 331358 string characters out of 5821545
+ 17275 strings out of 476533
+ 331389 string characters out of 5821545
  780747 words of memory out of 5000000
- 37262 multiletter control sequences out of 15000+600000
+ 37264 multiletter control sequences out of 15000+600000
  411083 words of font info for 93 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  93i,12n,98p,2634b,567s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on AUTthesis.pdf (20 pages).
+Output written on AUTthesis.pdf (21 pages).

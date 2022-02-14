@@ -5,6 +5,16 @@
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{ghareb2016hybrid}
+Ghareb, Abdullah~Saeed, Bakar, Azuraliza~Abu, and Hamdan, Abdul~Razak.
+\newblock Hybrid feature selection based on enhanced genetic algorithm for text
+  categorization.
+\newblock {\em Expert Systems with Applications}, 49:31--47, 2016.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{labani2018novel}
 Labani, Mahdieh, Moradi, Parham, Ahmadizar, Fardin, and Jalili, Mahdi.
 \newblock A novel multivariate filter method for feature selection in text
