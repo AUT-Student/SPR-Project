@@ -29,6 +29,7 @@
 \contentsline {section}{\numberline {4-2}مقایسه پیچیدگی حافظه}{17}{section.4.2}%
 \contentsline {section}{\numberline {4-3}مقایسه دقت}{17}{section.4.3}%
 \contentsline {subsection}{\numberline {4-3-1}دقت روش \lr {IGFSS}}{18}{subsection.4.3.1}%
-\contentsline {chapter}{\numberline {5}جمع‌بندی و نتیجه‌گیری}{20}{chapter.5}%
-\contentsline {chapter}{منابع و مراجع}{21}{appendix*.4}%
+\contentsline {subsection}{\numberline {4-3-2}دقت روش \lr {MDRC}}{19}{subsection.4.3.2}%
+\contentsline {chapter}{\numberline {5}جمع‌بندی و نتیجه‌گیری}{21}{chapter.5}%
+\contentsline {chapter}{منابع و مراجع}{22}{appendix*.4}%
 \contentsfinish 
