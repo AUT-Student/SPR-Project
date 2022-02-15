@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.9.5)  15 FEB 2022 20:19
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.9.5)  15 FEB 2022 20:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1054,13 +1054,22 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 7.
 
 (c:/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-))
+) [2
+
+])
 \tf@toc=\write5
 \openout5 = `AUTthesis.toc'.
 
- [2
 
-] (./AUTthesis.lof)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[3] (./AUTthesis.lof)
 \tf@lof=\write6
 \openout6 = `AUTthesis.lof'.
 
@@ -1073,7 +1082,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[3
+[4
 
 ] (./AUTthesis.lot)
 \tf@lot=\write7
@@ -1088,7 +1097,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[4
+[5
 
 ]) (./list-of-symbols.tex
 LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/m/n' will be
@@ -1118,7 +1127,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[5
+[6
 
 
 ])
@@ -1468,7 +1477,31 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 
-]) (./AUTthesis.bbl
+]
+Underfull \hbox (badness 10000) in paragraph at lines 2--4
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--7
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--10
+[][]
+ []
+
+)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[23] (./AUTthesis.bbl
 LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/m/n' will be
 (Font)              scaled to size 29.85593pt on input line 4.
 
@@ -1477,7 +1510,7 @@ LaTeX Font Warning: Font shape `TU/TimesNewRoman.ttf(0)/m/it' undefined
 (Font)              using `TU/TimesNewRoman.ttf(0)/m/n' instead on input line 1
 2.
 
-) [23
+) [24
 
 
 
@@ -1486,22 +1519,16 @@ LaTeX Font Warning: Font shape `TU/TimesNewRoman.ttf(0)/m/it' undefined
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-Package rerunfilecheck Warning: File `AUTthesis.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `AUTthesis.out':
-(rerunfilecheck)             Before: C7C1B58435E2147F7AA5F218CC874AA3;5584
-(rerunfilecheck)             After:  3CC665B7F7C9CDD05775356BAB5E2F12;5942.
+Package rerunfilecheck Info: File `AUTthesis.out' has not changed.
+(rerunfilecheck)             Checksum: 3CC665B7F7C9CDD05775356BAB5E2F12;5942.
  ) 
 Here is how much of TeX's memory you used:
  17377 strings out of 476533
- 333039 string characters out of 5821545
+ 333040 string characters out of 5821545
  785747 words of memory out of 5000000
  37352 multiletter control sequences out of 15000+600000
  412515 words of font info for 101 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  93i,12n,98p,2634b,567s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on AUTthesis.pdf (30 pages).
+Output written on AUTthesis.pdf (32 pages).

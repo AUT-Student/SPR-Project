@@ -1,7 +1,7 @@
 \edef \SavedTocDepth {\the \value {tocdepth}}
 \setcounter {tocdepth}{-10}
-\contentsline {chapter}{فهرست اشکال}{ج}{section*.2}%
-\contentsline {chapter}{فهرست جداول}{د}{section*.3}%
+\contentsline {chapter}{فهرست اشکال}{د}{section*.2}%
+\contentsline {chapter}{فهرست جداول}{ه}{section*.3}%
 \par عنوان\hfill صفحه \par 
 \setcounter {tocdepth}{\SavedTocDepth }
 \contentsline {chapter}{\numberline {1}مقدمه}{1}{chapter.1}%
@@ -34,5 +34,5 @@
 \contentsline {section}{\numberline {4-4}مقایسه نوآوری}{20}{section.4.4}%
 \contentsline {section}{\numberline {4-5}جمع‌بندی مقایسه‌ها}{21}{section.4.5}%
 \contentsline {chapter}{\numberline {5}جمع‌بندی و نتیجه‌گیری}{22}{chapter.5}%
-\contentsline {chapter}{منابع و مراجع}{23}{appendix*.4}%
+\contentsline {chapter}{منابع و مراجع}{24}{appendix*.4}%
 \contentsfinish 
