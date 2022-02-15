@@ -30,6 +30,9 @@
 \contentsline {section}{\numberline {4-3}مقایسه دقت}{17}{section.4.3}%
 \contentsline {subsection}{\numberline {4-3-1}دقت روش \lr {IGFSS}}{18}{subsection.4.3.1}%
 \contentsline {subsection}{\numberline {4-3-2}دقت روش \lr {MDRC}}{19}{subsection.4.3.2}%
-\contentsline {chapter}{\numberline {5}جمع‌بندی و نتیجه‌گیری}{21}{chapter.5}%
-\contentsline {chapter}{منابع و مراجع}{22}{appendix*.4}%
+\contentsline {subsection}{\numberline {4-3-3}روش برپایه الگوریتم ژنتیک}{19}{subsection.4.3.3}%
+\contentsline {section}{\numberline {4-4}مقایسه نوآوری}{20}{section.4.4}%
+\contentsline {section}{\numberline {4-5}جمع‌بندی مقایسه‌ها}{21}{section.4.5}%
+\contentsline {chapter}{\numberline {5}جمع‌بندی و نتیجه‌گیری}{22}{chapter.5}%
+\contentsline {chapter}{منابع و مراجع}{23}{appendix*.4}%
 \contentsfinish 

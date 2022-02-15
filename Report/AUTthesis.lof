@@ -5,5 +5,6 @@
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {4-1}{\ignorespaces فراوانی ویژگی‌های انتخاب‌شده نسبت به هر کلاس برای شاخص جینی در روش \lr {IGFSS} \cite {uysal2016improved} }}{18}{figure.4.1}%
 \contentsline {figure}{\numberline {4-2}{\ignorespaces امتیاز معیار $F_1$ برای روش‌های مختلف انتخاب ویژگی و روش \lr {MDRC} و روش‌های دسته‌بندی \lr {(a)} درخت تصمیم \lr {(b)} روش \lr {MLP} \lr {(c)} روش \lr {MNB} \cite {labani2018novel} }}{20}{figure.4.2}%
+\contentsline {figure}{\numberline {4-3}{\ignorespaces امتیاز معیار $F_1$ و همچنین کاهش تعداد ویژگی‌ها بعد از اعمال روش برپایه ژنتیک بر روش‌های پایه \cite {ghareb2016hybrid} }}{21}{figure.4.3}%
 \addvspace {10\p@ }
 \contentsfinish 
