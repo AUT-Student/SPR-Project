@@ -1,6 +1,7 @@
 \edef \SavedTocDepth {\the \value {tocdepth}}
 \setcounter {tocdepth}{-10}
-\contentsline {chapter}{فهرست جداول}{ج}{section*.2}%
+\contentsline {chapter}{فهرست اشکال}{ج}{section*.2}%
+\contentsline {chapter}{فهرست جداول}{د}{section*.3}%
 \par عنوان\hfill صفحه \par 
 \setcounter {tocdepth}{\SavedTocDepth }
 \contentsline {chapter}{\numberline {1}مقدمه}{1}{chapter.1}%
@@ -24,7 +25,10 @@
 \contentsline {subsection}{\numberline {3-3-1}شناسنامه الگوریتم ژنتیک}{13}{subsection.3.3.1}%
 \contentsline {subsection}{\numberline {3-3-2}مراحل الگوریتم}{14}{subsection.3.3.2}%
 \contentsline {chapter}{\numberline {4}ارزیابی و مقایسه}{16}{chapter.4}%
-\contentsline {section}{\numberline {4-1}مقایسه تئوری}{17}{section.4.1}%
-\contentsline {chapter}{\numberline {5}جمع‌بندی و نتیجه‌گیری}{18}{chapter.5}%
-\contentsline {chapter}{منابع و مراجع}{19}{appendix*.3}%
+\contentsline {section}{\numberline {4-1}مقایسه پیچیدگی زمانی}{17}{section.4.1}%
+\contentsline {section}{\numberline {4-2}مقایسه پیچیدگی حافظه}{17}{section.4.2}%
+\contentsline {section}{\numberline {4-3}مقایسه دقت}{17}{section.4.3}%
+\contentsline {subsection}{\numberline {4-3-1}دقت روش \lr {IGFSS}}{18}{subsection.4.3.1}%
+\contentsline {chapter}{\numberline {5}جمع‌بندی و نتیجه‌گیری}{20}{chapter.5}%
+\contentsline {chapter}{منابع و مراجع}{21}{appendix*.4}%
 \contentsfinish 
