@@ -18,19 +18,19 @@
 \contentsline {section}{\numberline {3-1}روش \lr {IGFSS}}{10}{section.3.1}%
 \contentsline {subsection}{\numberline {3-1-1}مراحل الگوریتم}{10}{subsection.3.1.1}%
 \contentsline {subsection}{\numberline {3-1-2}مثال و تحلیل}{10}{subsection.3.1.2}%
-\contentsline {section}{\numberline {3-2}روش \lr {MRDC}}{11}{section.3.2}%
+\contentsline {section}{\numberline {3-2}روش \lr {MRDC}}{12}{section.3.2}%
 \contentsline {subsection}{\numberline {3-2-1}مراحل الگوریتم}{12}{subsection.3.2.1}%
-\contentsline {subsection}{\numberline {3-2-2}مثال و تحلیل}{12}{subsection.3.2.2}%
-\contentsline {section}{\numberline {3-3}روش برپایه الگوریتم ژنتیک}{13}{section.3.3}%
-\contentsline {subsection}{\numberline {3-3-1}شناسنامه الگوریتم ژنتیک}{13}{subsection.3.3.1}%
-\contentsline {subsection}{\numberline {3-3-2}مراحل الگوریتم}{14}{subsection.3.3.2}%
-\contentsline {chapter}{\numberline {4}ارزیابی و مقایسه}{16}{chapter.4}%
+\contentsline {subsection}{\numberline {3-2-2}مثال و تحلیل}{13}{subsection.3.2.2}%
+\contentsline {section}{\numberline {3-3}روش برپایه الگوریتم ژنتیک}{14}{section.3.3}%
+\contentsline {subsection}{\numberline {3-3-1}شناسنامه الگوریتم ژنتیک}{14}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3-3-2}مراحل الگوریتم}{15}{subsection.3.3.2}%
+\contentsline {chapter}{\numberline {4}مقایسه}{16}{chapter.4}%
 \contentsline {section}{\numberline {4-1}مقایسه پیچیدگی زمانی}{17}{section.4.1}%
 \contentsline {section}{\numberline {4-2}مقایسه پیچیدگی حافظه}{17}{section.4.2}%
 \contentsline {section}{\numberline {4-3}مقایسه دقت}{17}{section.4.3}%
 \contentsline {subsection}{\numberline {4-3-1}دقت روش \lr {IGFSS}}{18}{subsection.4.3.1}%
-\contentsline {subsection}{\numberline {4-3-2}دقت روش \lr {MDRC}}{19}{subsection.4.3.2}%
-\contentsline {subsection}{\numberline {4-3-3}روش برپایه الگوریتم ژنتیک}{19}{subsection.4.3.3}%
+\contentsline {subsection}{\numberline {4-3-2}دقت روش \lr {MDRC}}{18}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4-3-3}دقت روش برپایه الگوریتم ژنتیک}{19}{subsection.4.3.3}%
 \contentsline {section}{\numberline {4-4}مقایسه نوآوری}{20}{section.4.4}%
 \contentsline {section}{\numberline {4-5}جمع‌بندی مقایسه‌ها}{21}{section.4.5}%
 \contentsline {chapter}{\numberline {5}جمع‌بندی و نتیجه‌گیری}{22}{chapter.5}%

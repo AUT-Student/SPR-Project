@@ -4,9 +4,9 @@
 \addvspace {10\p@ }
 \contentsline {table}{\numberline {3-1}{\ignorespaces مجموعه‌داده نمونه برای روش \lr {IGFSS}}}{11}{table.3.1}%
 \contentsline {table}{\numberline {3-2}{\ignorespaces امتیاز معیار‌های انتخاب ویژگی برای روش \lr {IGFSS}}}{11}{table.3.2}%
-\contentsline {table}{\numberline {3-3}{\ignorespaces تفاوت روش سنتی با روش \lr {IGFSS} برای مثال ارائه‌شده}}{11}{table.3.3}%
+\contentsline {table}{\numberline {3-3}{\ignorespaces تفاوت خروجی روش سنتی با روش \lr {IGFSS} برای مثال ارائه‌شده}}{12}{table.3.3}%
 \contentsline {table}{\numberline {3-4}{\ignorespaces مجموعه‌داده نمونه برای روش \lr {MRDC}}}{13}{table.3.4}%
-\contentsline {table}{\numberline {3-5}{\ignorespaces مقایسه دو معیار تمایزگر نسبی و \lr {MDRC} برای مجموعه داده نمونه}}{13}{table.3.5}%
+\contentsline {table}{\numberline {3-5}{\ignorespaces مقایسه امتیاز دو معیار تمایزگر نسبی و \lr {MDRC} برای مجموعه داده نمونه}}{14}{table.3.5}%
 \addvspace {10\p@ }
 \contentsline {table}{\numberline {4-1}{\ignorespaces معیار $F_1$ برای روش‌های پایه و \lr {IGFSS} برای دسته‌بند \lr {SVM} \cite {uysal2016improved}}}{19}{table.4.1}%
 \contentsline {table}{\numberline {4-2}{\ignorespaces معیار $F_1$ برای روش‌های پایه و \lr {IGFSS} برای دسته‌بند \lr {NB} \cite {uysal2016improved}}}{19}{table.4.2}%

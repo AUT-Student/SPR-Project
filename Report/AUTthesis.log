@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.9.5)  15 FEB 2022 21:15
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.9.5)  15 FEB 2022 23:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1069,7 +1069,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[3] (./AUTthesis.lof)
+[3] (./AUTthesis.lof
+Overfull \hbox (20.24954pt too wide) in paragraph at lines 7--7
+ [][][] [][][][][][][]\TU/BNazanin.ttf(0)/b/n/12 امتیاز معیار $\OML/cmm/m/it/12
+ F[]$ \TU/BNazanin.ttf(0)/b/n/12 برای روش‌های مختلف انتخاب ویژگی و روش []\TU/Ti
+mesNewRoman.ttf(0)/m/n/12 MDRC[] \TU/BNazanin.ttf(0)/b/n/12 برای دسته‌بندی‌های[
+][][][][] 
+ []
+
+)
 \tf@lof=\write6
 \openout6 = `AUTthesis.lof'.
 
@@ -1104,18 +1112,48 @@ LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/m/n' will be
 (Font)              scaled to size 9.59998pt on input line 13.
 LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/m/n' will be
 (Font)              scaled to size 7.19998pt on input line 13.
-LaTeX Font Info:    Trying to load font information for U+euf on input line 28.
 
-
-(c:/texlive/2021/texmf-dist/tex/latex/amsfonts/ueuf.fd
-File: ueuf.fd 2013/01/14 v3.01 Euler Fraktur
-)
-Underfull \hbox (badness 10000) in paragraph at lines 13--68
+Underfull \hbox (badness 10000) in paragraph at lines 13--17
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 13--68
+Underfull \hbox (badness 10000) in paragraph at lines 13--17
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--25
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--33
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--37
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
 [][]
  []
 
@@ -1442,6 +1480,7 @@ Overfull \hbox (36.44846pt too wide) in paragraph at lines 100--101
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+)
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1450,7 +1489,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[20])
+[20]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1520,15 +1559,15 @@ LaTeX Font Warning: Font shape `TU/TimesNewRoman.ttf(0)/m/it' undefined
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `AUTthesis.out' has not changed.
-(rerunfilecheck)             Checksum: 3CC665B7F7C9CDD05775356BAB5E2F12;5942.
+(rerunfilecheck)             Checksum: 683FB27732B0FE4DB1E5C55BF4BB0B63;5894.
  ) 
 Here is how much of TeX's memory you used:
- 17377 strings out of 476533
- 333040 string characters out of 5821545
- 785747 words of memory out of 5000000
- 37352 multiletter control sequences out of 15000+600000
- 412515 words of font info for 101 fonts, out of 8000000 for 9000
+ 17360 strings out of 476533
+ 332755 string characters out of 5821545
+ 784747 words of memory out of 5000000
+ 37341 multiletter control sequences out of 15000+600000
+ 411099 words of font info for 95 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 93i,12n,98p,2634b,567s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 93i,12n,98p,2634b,499s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on AUTthesis.pdf (32 pages).
